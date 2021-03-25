@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF of winning Furious Five Memory Match Game
 
-![](https://i.imgur.com/QzzP26P.gif)
+![](https://github.com/Slizero/Furious-Five-Memory-Match/blob/main/Screen%20Recording%202021-03-25%20at%201.29.37%20AM.gif)
 
 GIF of losing after 3 mistakes.
 
