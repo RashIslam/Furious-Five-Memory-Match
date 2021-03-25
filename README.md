@@ -1,6 +1,6 @@
-# Pre-work - *Majestic Memory Match*
+# Pre-work - *Furious Five Memory Match*
 
-**Majestic Memory Match** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Furious Five Memory Match** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Mohammed Islam**
 
